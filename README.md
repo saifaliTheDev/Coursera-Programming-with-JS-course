@@ -1,1 +1,1 @@
-# Coursera-Programming-with-JS-course
+# Coursera Programming-with-JS course ✨🚀
